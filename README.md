@@ -3,7 +3,8 @@ All the code related to back-end programing contain in this container.
 #
 This repository will be used from Fron-End team.
 #
-We need a slider which will display pictures on a page. Please chose 10 pictures from sample appartments, rename them as 1.jpg, 2.jpg, 3.jpg, ... and load from a folder called Images on your desktops. Show all these pictures on the page through slider show an functionalities. When you made it, please upload your code to ths repository.
+Goal: We need a web page which will hold a slider to display pictures.
 #
-How to do:
-After installing the desktop version on your desktops, synchronize your desktop git application with this github account by clickin on synchronize button on the application. It will upload all your changes to this repository in which all colegues can see your code. Try using git hub on your deskopts then if you have questions please do not hesitate to ask.
+Task 1: Define all data category that should be shown on web page.
+#
+Task 2: Find 10 pictures that shows appartments. They will be used as sample pictures four showin departminet.
