@@ -1,7 +1,7 @@
 # sliderShowBack
 All the code related to back-end programing contain in this container.
 #
-This repository will be used from Fron-End team.
+This repository will be used from Back-End team.
 #
 Goal: We need a web page which will hold a slider to display pictures.
 #
