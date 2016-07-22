@@ -3,4 +3,5 @@ BE - Task 1
 Definoni variablat e duhura per prezantimin e nje apartamenti ne ueb faqe. Pastaj percaktoni tipet e variablave dhe definoni cilat jane
 vlerat minimale dhe maksimale (vargun e vlerave) qe duhet te ruhen ne keto variabla. Ne baze te variablave, definoni fushat te cilat
 duhet te krijohen ne tabele duke e perfshir emrin e fushes dhe tipin e saj. Formoni nje tabel ne excel per ta paraqitur pamjen e tabeles
-se si duhet te duket. Pasi ta kryni ne vazhdim te ketij fajlli tregoni rezultatin e punes suaj.
+se si duhet te duket. Pasi ta kryni, kopjoni fajllin textual (notepad) dhe fajllin excel ne repdData.txt ndersa excel'in keshtu 
+showProperty_table.css.
