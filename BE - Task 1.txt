@@ -1,4 +1,4 @@
-DE - Task 1
+BE - Task 1
 
 Definoni variablat e duhura per prezantimin e nje apartamenti ne ueb faqe. Pastaj percaktoni tipet e variablave dhe definoni 
 cilat jane vlerat minimale dhe maksimale (vargun e vlerave) qe duhet te ruhen ne keto variabla. Ne baze te variablave, definoni 
