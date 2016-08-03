@@ -1,0 +1,7 @@
+IDAp(int)
+Titulli (nchar)
+EmriShitesit(nchar)
+Adresa(nchar)
+Numritel(nchar)
+Dhomat(BLOB)
+Mkatror(double)
